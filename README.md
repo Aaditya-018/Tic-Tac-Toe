@@ -95,8 +95,3 @@ java -cp bin Main
 - [ ] **GUI Upgrade:** Transition from CLI to a graphical layout using Java Swing or JavaFX.
 - [ ] **Scoreboard System:** Track player wins, losses, and ties across multiple rounds.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
