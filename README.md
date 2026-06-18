@@ -2,10 +2,6 @@
 
 A lightweight, high-performance **Tic-Tac-Toe** game built using **Core Java**. This project showcases clean object-oriented programming (OOP) principles, comprehensive input validation, and a sleek, interactive Command-Line Interface (CLI).
 
-![Java Version](https://shields.io)
-![License](https://shields.io)
-![Build](https://shields.io)
-
 ---
 
 ## 🚀 Features
