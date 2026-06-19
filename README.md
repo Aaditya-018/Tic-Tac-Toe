@@ -10,7 +10,6 @@ A lightweight, high-performance **Tic-Tac-Toe** game built using **Core Java**. 
 * **Smart Input Validation:** Prevents illegal moves, accidental overwrites, and invalid inputs.
 * **Dynamic Board Rendering:** Real-time updates to the grid layout in the console.
 * **Automated Win & Draw Detection:** Instant evaluation of rows, columns, and diagonals.
-* **Replayability:** Prompt to instantly start a new match after a game concludes.
 
 ---
 
