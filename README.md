@@ -86,7 +86,6 @@ java -cp bin Main
 
 ## 📝 Roadmap / Future Enhancements
 
-- [ ] **AI Single-Player Mode:** Implement a Minimax algorithm for an unbeatable computer opponent.
 - [ ] **GUI Upgrade:** Transition from CLI to a graphical layout using Java Swing or JavaFX.
 - [ ] **Scoreboard System:** Track player wins, losses, and ties across multiple rounds.
 
