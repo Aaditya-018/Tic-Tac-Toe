@@ -21,20 +21,6 @@ A lightweight, high-performance **Tic-Tac-Toe** game built using **Core Java**. 
 
 ---
 
-## 📦 Project Structure
-
-```text
-tic-tac-toe/
-├── src/
-│   ├── Main.java          # Coordinates the core game loop and application entry
-│   ├── Board.java         # Manages the 3x3 grid state, validation, and rendering
-│   └── GameEngine.java    # Handles player turns, logic rules, and win conditions
-├── README.md              # Documentation
-└── LICENSE                # Project licensing
-```
-
----
-
 ## 🏁 Getting Started
 
 Follow these simple steps to download, compile, and run the game on your local machine.
@@ -88,4 +74,3 @@ java -cp bin Main
 
 - [ ] **GUI Upgrade:** Transition from CLI to a graphical layout using Java Swing or JavaFX.
 - [ ] **Scoreboard System:** Track player wins, losses, and ties across multiple rounds.
-
